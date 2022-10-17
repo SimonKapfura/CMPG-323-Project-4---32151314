@@ -1,5 +1,6 @@
 # The following line will not include the appsettings.json in the github since it has plain text credentials
 appsettings.json
+project.json
 
 
 ## Ignore Visual Studio temporary files, build results, and
