@@ -102,7 +102,7 @@
       <Variable x:TypeArguments="sd:DataTable" Name="CategoryDataTable" />
       <Variable x:TypeArguments="sd:DataTable" Name="CategoryTestData" />
       <Variable x:TypeArguments="x:String" Name="tempID" />
-      <Variable x:TypeArguments="x:String" Default="C0" Name="categoryID" />
+      <Variable x:TypeArguments="x:String" Name="categoryID" />
       <Variable x:TypeArguments="x:Int32" Default="0" Name="createdCategory" />
       <Variable x:TypeArguments="x:Int32" Default="0" Name="row" />
     </Sequence.Variables>
