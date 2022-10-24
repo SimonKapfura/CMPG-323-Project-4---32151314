@@ -20619,15 +20619,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Stinagami\\.nuget\\packages\\": {}
+    "C:\\Users\\32151314\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "Connected Office Web Application User Acceptance Testing",
       "projectName": "Connected Office Web Application User Acceptance Testing",
-      "projectPath": "C:\\Users\\Stinagami\\Documents\\GitHub\\New folder\\CMPG-323-Project-4---32151314\\Connected Office Web Application User Acceptance Testing\\.local",
-      "packagesPath": "C:\\Users\\Stinagami\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stinagami\\Documents\\GitHub\\New folder\\CMPG-323-Project-4---32151314\\Connected Office Web Application User Acceptance Testing\\.local"
+      "projectPath": "C:\\Users\\32151314\\Desktop\\CMPG-323-Project-4---32151314\\Connected Office Web Application User Acceptance Testing\\.local",
+      "packagesPath": "C:\\Users\\32151314\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\32151314\\Desktop\\CMPG-323-Project-4---32151314\\Connected Office Web Application User Acceptance Testing\\.local"
     },
     "frameworks": {
       "net6.0-windows7.0": {
@@ -20658,7 +20658,7 @@
             "version": "[22.10.1, 22.10.1]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Stinagami\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\32151314\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
       }
     },
     "runtimes": {
